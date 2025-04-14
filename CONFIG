@@ -1,0 +1,9 @@
+HOME = /Users/eesa0e/Source/Tawa-0.7
+CC = gcc
+CXX = gcc
+INCLUDES = -I$(HOME)/include
+CFLAGS = -g -O -Wall -ansi -pedantic -Wno-long-long $(INCLUDES)
+#CFLAGS = -g -O -Wall -ansi -pedantic Wno-long-long $(INCLUDES) -DSYSTEM_SUNOS
+CXXFLAGS = $(CFLAGS)
+LIBS = -L$(HOME)/lib -lTawa -lm
+#LIBS = -L$(HOME)/lib -lTawa -lm -lccmalloc -ldl
