@@ -6,7 +6,7 @@ Tawa Toolkit
 ------------
 
 This tar distribution contains an implementation of the Text
-Analysis from Waikato Toolkit ("Tawa") written by Bill Teahan
+Analysis from Wales & Waikato Toolkit ("Tawa") written by Bill Teahan
 that was previosuly based on the Text Mining Toolkit ("TMT").
 
 
