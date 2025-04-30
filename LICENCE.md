@@ -127,16 +127,3 @@ l. **You** means the individual or entity exercising the Licensed Rights
 *(The licence continues in full; nothing has been omitted.)*
 
 ---
-
-## Handy README snippet (optional)
-
-If you prefer to keep the full licence in a separate file and just link to
-it from your `README.md`, drop this in:
-
-```markdown
-## Licence
-
-[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-This project is released under the
-[Creative Commons Attribution-NonCommercial 4.0 International
-Licence](https://creativecommons.org/licenses/by-nc/4.0/).
